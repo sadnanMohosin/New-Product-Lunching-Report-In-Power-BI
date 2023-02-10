@@ -1,8 +1,8 @@
 # New-Product-Lunching-Report-In-Power-BI
 
+![](https://github.com/sadnanMohosin/New-Product-Lunching-Report-In-Power-BI/blob/master/8.JPG)
 
-
-• Dashboard highlighting the following:-
+ Dashboard highlighting the following:-
 o Units Sold by Category
 
 o Total Unit sold
